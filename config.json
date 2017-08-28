@@ -1,0 +1,9 @@
+{
+  "data_in_path" : "data/result.csv",
+  "model_path" : "model",
+  "start_date" : "20160421",
+  "end_date" : "20170421",
+  "date_range" : 365,
+  "top_n" : 124,
+  "data_out_path" : "output"
+}
